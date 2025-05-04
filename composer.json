@@ -1,0 +1,27 @@
+{
+  "name": "denniscarrazeiro/php-curl-module",
+  "description": "A library that proposes handle curl php module. Consider that Module goes be use in PHP projects.",
+  "version":"1.0.0",
+  "keywords": [
+    "carrazeiro",
+    "curl"
+  ],
+  "homepage": "https://github.com/denniscarrazeiro/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dennis Santana Carrazeiro",
+      "email": "dennis.carrazeiro@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "phpunit/phpunit": "^9.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DennisCarrazeiro\\Php\\Curl\\Module\\": "src/"
+    }
+  }
+}
