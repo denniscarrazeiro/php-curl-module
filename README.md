@@ -1,7 +1,7 @@
-# PHP Sql Builder Module
+# PHP Curl Module
 
 [![Maintainer](http://img.shields.io/badge/maintainer-denniscarrazeiro-blue.svg?style=flat-square)](https://www.linkedin.com/in/dennis-carrazeiro)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/denniscarrazeiro/php-curl-module.svg?style=flat-square)](https://packagist.org/packages/denniscarrazeiro/php-sql-builder-module)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/denniscarrazeiro/php-curl-module.svg?style=flat-square)](https://packagist.org/packages/denniscarrazeiro/php-curl-module)
 [![Latest Version](https://img.shields.io/github/release/denniscarrazeiro/php-curl-module.svg?style=flat-square)](https://github.com/denniscarrazeiro/php-curl-module/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
